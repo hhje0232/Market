@@ -64,4 +64,25 @@
  + 구현 기능 설명
     + 삭제 버튼 클릭 시 비밀번호 판별을 하여 삭제 성공 및 실패 확인
 
+![image](https://user-images.githubusercontent.com/104810523/174935881-69d32d5d-5beb-4444-9ccd-331dca127ce1.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174935905-ce2b8a09-30a4-4d34-bf12-1d0ffa620871.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174935853-afdc7d84-a873-468d-916c-d74901844fc0.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174935860-c2c41049-ed62-4401-adc8-1291f46563f2.png)
+
+-------------------------------------
+## 스토어 게시판 
+ + 구현 기능 설명
+    + 마켓 제품 목록 페이지 구현
+    + 수량에 따른 구매 페이지
+    + 장바구니 목록 페이지
+    + 장바구니 삭제 기능
+    + 로그아웃 상태에서 장바구니/주문하기 버튼 누르면 로그인 페이지로 이동
+  
+  
+  
+
+
 
