@@ -27,9 +27,28 @@
  
  #### 사이트 내 공지사항 게시판 페이지
  + 구현 기능 설명
-  + 공지사항 게시판 글 목록 조회
-  + 페이징을 통해 게시글 목록 넘기기
-  + 게시판 글 검색 및 수정/삭제
-  + 메인페이지에서 최근 게시물 목록 표시 기능
-  + 목록으로 이동
-  
+    + 공지사항 게시판 글 목록 조회
+    + 페이징을 통해 게시글 목록 넘기기
+    + 게시판 글 쓰기
+    + 게시물 조회
+    + 메인페이지에서 최근 게시물 목록 표시 기능
+   + 목록으로 이동
+
+![image](https://user-images.githubusercontent.com/104810523/174934577-942c5998-dfeb-4dfc-ae40-e8b88f125333.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174934683-7358d681-c6fe-4f7b-a5ac-8abdd238e0c4.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174934702-306c8fdb-20d8-4c06-8eab-0bfd254637bc.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174934755-b4dbecdd-85c4-4787-9e80-94a613ec313d.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174934765-776d0ea1-8d89-433b-903b-b705660420a9.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174934775-1b812c10-608f-4a0d-bd01-e6b95e16e12d.png)
+
+ ### 1. 공지사항 수정
+ #### 공지사항 게시글 수정 페이지
+ + 구현 기능 설명
+    + 게시글 수정 시, DB에 등록된 게시글 제목, 내용 불러옴.
+    + 수정 버튼 클릭 시 수정한 게시글 상세조회로 이동하게 됩니다.
+ 
