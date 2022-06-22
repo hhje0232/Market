@@ -74,15 +74,42 @@
 
 -------------------------------------
 ## 스토어 게시판 
+### 1. 스토어 상품 조회
+ #### 사이트 내 스토어 게시판 페이지
  + 구현 기능 설명
     + 마켓 제품 목록 페이지 구현
     + 수량에 따른 구매 페이지
+
+![image](https://user-images.githubusercontent.com/104810523/174937033-437bce97-76dc-4543-87cd-40f3b1d1634e.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174937040-c876affc-5f14-46fd-a2a8-083071d9e406.png)
+
+
+
+
+### 2. 스토어 장바구니 
+#### 장바구니 담기, 삭제 페이지
+ + 구현 기능 설명
     + 장바구니 목록 페이지
+    + 장바구니 담기 기능
     + 장바구니 삭제 기능
     + 로그아웃 상태에서 장바구니/주문하기 버튼 누르면 로그인 페이지로 이동
-  
-  
-  
 
+![image](https://user-images.githubusercontent.com/104810523/174937044-0e2bbd6c-9cde-435c-a553-57a0a0f97656.png)
 
+![image](https://user-images.githubusercontent.com/104810523/174937056-36b2ab4c-b960-4696-9873-bb33bebc5eab.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174937062-81407353-cb46-499c-bc4b-d90fda2c1a44.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174937069-fa53c112-8ee8-407e-a4cf-424744d5ea5a.png)
+
+## 회원관리 게시판
+ ### 1. 회원가입
+ 
+ #### 사이트 내 회원가입 페이지
+ + 구현 기능 설명
+    + 아이디 중복 확인
+    + 우편번호 찾기
+    + 비밀번호 보안 단계별 확인
+    + 비밀번호 일치 여부 판별
 
