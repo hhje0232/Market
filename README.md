@@ -46,9 +46,22 @@
 
 ![image](https://user-images.githubusercontent.com/104810523/174934775-1b812c10-608f-4a0d-bd01-e6b95e16e12d.png)
 
- ### 1. 공지사항 수정
+ ### 2. 공지사항 수정
  #### 공지사항 게시글 수정 페이지
  + 구현 기능 설명
     + 게시글 수정 시, DB에 등록된 게시글 제목, 내용 불러옴.
     + 수정 버튼 클릭 시 수정한 게시글 상세조회로 이동하게 됩니다.
- 
+   
+![image](https://user-images.githubusercontent.com/104810523/174935520-31cfbe52-b04b-40fa-ac06-27e7c46ef237.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174935527-a39a7247-22e3-4af8-b7c7-831ddb8ad077.png)
+
+![image](https://user-images.githubusercontent.com/104810523/174935539-c610b2ea-2c15-4928-b1c3-ff5708baa128.png)
+
+
+ ### 3. 공지사항 삭제
+ #### 공지사항 게시글 삭제 페이지
+ + 구현 기능 설명
+    + 삭제 버튼 클릭 시 비밀번호 판별을 하여 삭제 성공 및 실패 확인
+
+
