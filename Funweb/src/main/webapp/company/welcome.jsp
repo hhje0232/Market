@@ -30,7 +30,7 @@
 		<article id = "ab">
          <h1 class ="welcom">WELCOME</h1>
          <div class ="wel">
-                  마켓에 오신 걸 환영합니다! (수정)
+                  마켓에 오신 걸 환영합니다!
             
          </div>
       </article>
