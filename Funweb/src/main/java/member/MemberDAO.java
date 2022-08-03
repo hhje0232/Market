@@ -13,7 +13,7 @@ public class MemberDAO {
 	PreparedStatement pstmt = null;
 	ResultSet rs = null;
 	
-	// 회원 추가 작업
+	// 회원 추가 작업(수정)
 	public int insertMember(MemberBean member) {
 		int insertCount = 0;
 		
